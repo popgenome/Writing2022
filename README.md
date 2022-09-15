@@ -1,5 +1,5 @@
 # Scientific Writing in 2022 Fall Semester
-*Scientific Writing* is a course for graduate student to learn how to write a research paper. It teaches a fundamental skill in **figure preparation and manuscript wirting**, which serves as the basis in their future research life.
+*Scientific Writing* is a course for graduate students to learn writing a research paper. It teaches a fundamental skill in **figure preparation and manuscript wirting**, which serves as the basis in their future research life.
 
 # Contents
 1. Introduction
