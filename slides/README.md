@@ -6,10 +6,15 @@
    * Stated the importance of *Scientific Writing* and how it is taught in graduate schools
    * Self introduction for students and regrouping
 2. 2022/11/2, Introduction of *Scientific Figure*
-   * Listened to the 1st round of 8 participants' talks
+   * Listened to the 1st round of 8 participants' opening talks
    * Introduced the basic plot types
    * Illustrated the use of plots in a case study
 3. 2022/11/9, Introduction of *Scientific Writing*
-   * Listened to the 2nd round of 10 participants' talks
+   * Listened to the 2nd round of 10 participants' opening talks
    * Introduced the concept of *Scientific Writing*
    * Talked about how to draft a manuscript
+4. 2022/11/30, Introduction of *Manuscript Editing*
+   * Listend to the 1st round of 9 participants' research talks
+   * Talked about manuscript editing
+   * Introduced the process of manuscript submission and peer reviewing
+   * Shared experiences in scientific writing practice
