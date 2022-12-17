@@ -14,7 +14,12 @@
    * Introduced the concept of *Scientific Writing*
    * Talked about how to draft a manuscript
 4. 2022/11/30, Introduction of *Manuscript Editing*
-   * Listend to the 1st round of 9 participants' research talks
+   * Listened to the 1st round of 9 participants' research talks
    * Talked about manuscript editing
    * Introduced the process of manuscript submission and peer reviewing
    * Shared experiences in scientific writing practice
+5. 2022/12/5, course review
+   * Listened to the 2nd round of research talks
+   * Explained the grading and final essay
+   * Received the feedback on the course from each participant
+6. 2022/12/28, group discussion
