@@ -23,3 +23,4 @@
    * Explained the grading and final essay
    * Received the feedback on the course from each participant
 6. 2022/12/28, group discussion
+   * Q & A on PhD program, ability building, and career choice
